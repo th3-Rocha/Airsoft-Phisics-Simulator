@@ -55,7 +55,6 @@ This repository contains mechanics related to an airsoft-style simulator, such a
   - HUD elements (ammo, crosshair, etc.)
   - Debug readouts for physics values
 
-> Note: This section will be updated to exactly match the real implemented mechanics after reviewing the scripts.
 
 ---
 
